@@ -1,1 +1,180 @@
+{
+  "sliderTitle": "Featured Slides",
+  "slides": [
+    {
+      "image": "https://raw.githubusercontent.com/blackshadowh4ck3r/Testing_json/refs/heads/main/Picsart_25-10-14_20-39-29-332.png",
+      "url": "https://example.com/page1"
+    },
+    
+    {
+      "image": "https://raw.githubusercontent.com/blackshadowh4ck3r/Testing_json/refs/heads/main/Picsart_25-10-14_21-01-05-318.png",
+      "url": "https://example.com/page1"
+    }
+  
+  
+    
+    
+     ],
+  "iconsSection": {
+    "title": "Offer Suggested By Us",
+    "icons": [
+      {
+        "image": "https://cdn-icons-png.flaticon.com/512/1041/1041916.png",
+        "label": "Chat",
+        "url": "https://www.chatib.us/"
+      },
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfGhp6wOpVochqKSrzrDYLwm9hJMH7wgn4HndntwYkE5kNDyjN4B65akk5ljSXQ_tpRbAcFyubpSAZo79LlAL5dqQLHOEMI2ONf_BPVLGMMJuf20YQQ5vncIkONF3XHMJvUVXTkJ_hHwuyNelB0e20ZqRQfNeMV-LhXWb7_fOK1qMXSrhzpWUf79t-sAQ/s512/game.png",
+        "label": "Games",
+        "url": ""
+      },
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirM9MPQiw5xYd6IlKw67lRQTT0EOanPLysZkWdt6yieUHHHAVHSzszvlTApAjE7IwUPHiE_UbcnP3dL8575s4hZ01Rlh0Z_VfAiObFaMsgcnyv01HgEgqF0eQPuVrfEt7GUwXVNrMbJWaC0x4VRb-z1XlBAvVmMJdq5WgsbMopn8Ya2VOEFayuwiqB_Rk/s447/images%20%283%29.png",
+        "label": "ChatGpt",
+        "url": "https://chatgpt.com/"
+      },
+      
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQkOZJGdJqejINfEO3_ZZKeW7mtnPPNjDjmOtX99Ivb3uJgarD8aNFkwJUAls4N2PcuigCnejhFRTyPHnJxgH3azk7RShDASxT9WsPgMrBtEKBP73qDv0eywm7sGdbR35mF3OzvGqp90vHUW7j4GebBDpiDtoCamQa2TNlGnqsM737uM8troRFcxE0XJY/s320/Picsart_25-09-30_03-21-59-631.png",
+        "label": "AnonymousCall",
+        "url": "https://calling2025.blogspot.com/?m=1"
+      },
+      
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjunPmhIG-dnrncJcTNrv1FIUKqJo1_2vzB5UBG4grtMp17VbDeU1OaNV6NXTgDGiES0BHqDJPVaFVdeaqeB_pmbenKxg7t-mf8QsGXWd5ZYE-HRhu6D0A4mZ6M4PVbUOfrGY9uH1PwJMtqPcjvRlURk1Gq0eO4fZN7aemcuEXOy6iPp6m-5wWUMf9vH48/s512/pdf.png",
+        "label": "2005 voter list",
+        "url": "https://ceoassam.nic.in/ERoll_2005/3_Cachar_PDF_2005/AC010/S03A0100063.pdf"
+      },
 
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfZHukGJnIhyphenhyphen3Yo_5gLpxtIqsHQbY9eyJ3uHI-qQEcX7OvA3SMixdOt1-zjpFiXmvwzsjxkVnWz1uWAReZ7qdfQiSIxCUd3sOL1fkpNWlkM1x-cGnPCyfqejxdh0YgpmwXVsThWpLacLMeM1RRw8A66QB04ralG5aPDEO4DM2NfJ2eh_ZZWrmsw1jze8s/s600/1caac431-872a-4c00-b330-688ef6617399_removalai_preview.png",
+        "label": "Files",
+        "url": "https://filesstore2025.blogspot.com/?m=1"
+      },
+
+      {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg",
+        "label": "Spotify",
+        "url": "https://open.spotify.com/"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBHhzbHtcBqGVSngcxgdq-QIbjF9zH2BWccI8YyOqe2hw9xtQV20ELN1nadUOi4AcRDa6PLlw51OFtKvwszlbgJPDyUMkV9L7rlU31ktDrcj3rXIPA5StE22p3Knk8BtokjQytedFGaVqqL6FuHEKz1naIM4bcYIC5ks62LrDNAs17izXZxBj1_i_Iw_w/s512/add-contact.png",
+        "label": "Add Contact",
+        "url": "https://skcontactsev.blogspot.com/?m=1"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkM0VuNN5T0DLifAdTOU0oqEQg_g8oZc8yt3hpqoEG1_JEAkURLI4oAQZNrTY9M5lCWuT2vVDUPcUd4A7M2PV_5gEabFHJVkyFsawhIw271LjnQ9hW8aD00nxB16BRMOaGm4wPSLKLTboC14A6jEhlWLUdXefKOfCkZW4zvaPkSBREj1_e_TBJS2cIdiA/s448/2094_4-78160389-imgingest-8746107476851490880.jpg",
+        "label": "Vehicle Search",
+        "url": ""
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglWCfLN5Su3ks35e_iKm35igrkUTu6vF9CUKd0ZOllvfollwTMyIa_yNI-z2k887I-tVWgzdSCXADaPpL_s72giJs3H3oWvYOlYrsdzspg2BZB-1nl62n-dVpL9CmCAq3KICxRqGnib-g82EqN0thfaCGoK0-n8TnU5NHr8JOEFOblJQEVil80FLLgG08/s512/fuel.png",
+        "label": "Fuel",
+        "url": "https://satkarakandifuel.blogspot.com/?m=1"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvzXpCz6lh07Pu8XLx_O_r7_vj1xQMUCEY3f8IoqNEUrVCJIlOaiBeT0q2fvZ_7hMrCiXYJWT_ZoZF7q7he8PKgCTb6GNpcQYkh4fJthHoR86qhFMsUduKyjFDicOHoKj6Yfw0qGfC-488trc5y6gvr8zY30RJmFYE5pHHevgAVXhMsgLCLO4EHuJXq6U/s734/Picsart_25-10-04_16-03-21-398.png",
+        "label": "Clock",
+        "url": "https://satkarakandiclock.blogspot.com/?m=1"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM15butSf5EFJaC5Uep7l0XB6rmkQhO1_IBnpiVLsRFlovftyIzc5osnItTgZnjsUpnrssQ8SGgvAgodNeL_7heDCEBmfKHIvvUvMQVEZR7rfyWLq3Dik9UZiy5xvnW8KPvVNSgParRQ8DwwYVtg4Jjv50roc7MdKFiGByz61wW-ZiHT734V323XxH7Vo/s512/weather-icon-size_512.png",
+        "label": "Weather",
+        "url": "https://satkarakandiwather.blogspot.com/?m=1"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdJpIQW7WNqnQMA8C_kdEXRowOdWbAc6FvHYxvx_73K7C96MDfTonKPT0K2oawSNkMf7rs9oNBRYc7aJ6HKbm6B_LTb5URmnU5Pjg4mDzDQ7jjb2QE78KSYJeSZRG7OKl2_Ry6WZnE4HjaASMQmAxSuRWftAlw3yDaywYu_df8eQxzSjBYLWsZvgMXMws/s873/Picsart_25-10-06_15-11-06-741.png",
+        "label": "Public Sketch",
+        "url": ""
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGMfS-O72CzyWv08mVJ_6T9mtp6ZSloQ7N6a1IFSOTKup_XFtboNe7ZwsyoWFFKmObVEoEY-UOsDEos3cMr1q9_8sTeDMpsbF3F-k1RG3PY8m6HmlBpMZE7znFy1_M781HzBOCCnt90Oj4BfhzPDTx1je907N1tyJnErK8Q9mNM8J5keo6GhNtx3VzkVY/s512/using-phone%20%281%29.png",
+        "label": "Typing Master",
+        "url": "https://satkarakandipttypingmaster.blogspot.com/?m=1"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijTwWu5Lo7IU52yk1rnXV7BYtya-PXa-rSByhGGNDPKIYsPdSN8c7TDydjS132eWNECz2X1P18CykKhlMwoxaP7HoaE1BS6qrQHMXhLZ755Akciy2HDC0m1PBURW_mKlHlCPwE5QM5BKi6KLQhpyiLJWYAIl20CGrjHA09jMCJKk8GwMue1ZJoKjOihog/s512/qr-code%20%281%29.png",
+        "label": "QR Scanner",
+        "url": "https://qrcodescan.in/"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVIuWc5kGMR8oXSlnT-LxAY14IkkcE1dj2ZIe50z961USIIMsCxZ3zQE5KMx5D53_kD3Du0Q6TgdmwdecmUBLk0DR1jAtK3xqd-6F5TVx3xNrLzia7coh_emowHipzjNxinotpuAJVxOx8W2DuzZPI2-Hjvi121CfSDQGr2k_QnfNFZRMysuvVCdfS2wY/s512/speed-test.png",
+        "label": "Speed",
+        "url": "https://pcmag.speedtestcustom.com/"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPULTRs_aWq8ARnoAEg-rvtubDeV8NM1N0uGTFF57DdmMyP303fVSGUySYHxFjNgLwmsUnP6uOizAUNOb4FyA1crdKI0-NA85c_y8e-BVqlGBLCFN-SsPVfTEayN4_W0jMXXQMtLt_45NgKFlu2d-scRtK9YyLc4c9WsmwLpvYgwoQOQlPt3nt4OMQbrI/s925/Picsart_25-10-02_18-25-24-018.png",
+        "label": "Live Music",
+        "url": "https://skptradio.blogspot.com/"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEZW5qILVDy_Dm3T654IQQLev5GNta-k5wg73x-hm93nanmevZ3vI5SQOvOMYKuF3S2CNhrdNVYjlIZrOTX6kiWOy8YX1q99IhRl3C0VE_h85yinYbpLtrQJdMRaRAsETslX1wfZb2LtmXsphhIoLRh-BHvqHsujQdn0WJzNJjqJLLCGGhMI-jKOEcC28/s100/icon.png",
+        "label": "My Shop",
+        "url": "https://www.mediafire.com/file/2ngwyjh4z1cgs6b/My_Supermarket_Journey_Mod.apk/file"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr8x5TAQ_bousXaNsnGahiZrrQ45_lYcy8wIIgZaKiuow1tIzsaL3yHnqMLQK3T3ePbrboQzHolp8LSLl_CXnNBbsaDZ-sYHg8IBINfmCBTgd6-YfeGJsfgOVy_eZ9VWJnisi6q8Fwv1r4WpzEcTTQZIo_WhGwmZ2seRV8uTbo8BjryPuloBsqVnHTxrg/s512/calculator.png",
+        "label": "Calculator",
+        "url": "https://satkarkandicalculator.blogspot.com/?m=1"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH17IHJjW33LthZbSB4tesSGLC4ASyJ1uN6GF9mdu3VP_pomOD6OmAJm-owMNbMgm9ofgnpnfG44WUNr0Gmf8_O8LM30zmP_9pN_-cLwxyxT6SBzKKuJg8DcBywAc4w7zTLiYUw4pGkQT_4sKpw4BN2EEqy2TSmtFiWve1CsZyVsCLT-a4jAIBMTrUhlI/s512/footsteps.png",
+        "label": "Footsteps",
+        "url": "https://skfootstepscounter.blogspot.com/?m=1"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoyxqqmV_kkj2LLY44uizyx6Hacli9EGR3gcK-9XtoxlkGzGTTVNWZlhRPHLLBgrl3bN2ECx10Ilex7XpgpSQOcO1NKOonryYzB-C7Ci0oQfSlHI_vsQq5carKb9N9BeFcu-KIMP2SXVUdG4xTWmm25nWxFdmAMIPlZ37ob6jfBdSU4yyDtHNmbSyfrE4/s512/Google_Translate_Icon.png",
+        "label": "Translate",
+        "url": "https://translate.google.co.in/?sl=auto&tl=bn&op=translate"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ0feEIHGkl0s6PUzSQZWH48oF7OCQ2GKRdgVcjcZ74FarVglz1V_6-gCRNn1puXzzUKMJf3Wvyu8xv_5UoDgJ52b77v0daxhUhY6PrsYKfjR6xAHRBYfklvzEwVH3aN4RQFFqwpy4u9ABxlv94M4HfNSFcu18RpB6t9QOJdP_794xwnB2vETsvBkdefc/s512/gun.png",
+        "label": "Guns",
+        "url": ""
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQWSOnL2kgPMOC-EJGM3IMcwjaXodo6VC15YSKmFBnUs2YqDNZFlV8fU5N9clEIpBv4HG1jal52VjhJbQNXaKFpoXHyJ20S_gLW2CUFb8uc8iKloPy8IThcs9CqBOyYyxMz_YjFXRq1J7mGzMbCVLJ_kGpsDZdXSRGMEC-dtaYwOy4y5WDTVs_OTy4xpc/s512/picker-color-icon.png",
+        "label": "Colour",
+        "url": "https://skcolorpicker.blogspot.com/?m=1"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis8AF8wZWzeJfqMVYb1kfsajxgeBvv66B73Z7icLL_KhO1AmYkqdU2PzL9Vb4UPnftaxjw04v77fLmLR1AMXrxfsJ6f3RBKIj8FxH3SYpDQkIJU-ptbF7b45o6VSarEQOmQJhH9u-7-ldWvZpTVU1N-W9T7b30jb5hzEFIHNMHXXL32SU0Q2uhMHdKN28/s720/Picsart_25-10-23_22-50-56-873.jpg",
+        "label": "Win",
+        "url": "https://satkarakandipt2spin.blogspot.com/?m=1"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNhU2NWsNPQ5Tda4Pgcua2QeEVAemrN706zP_20SUqe5MY5Gsmf7QPAeFH6-2UejyzCauXjk5NaEUkZ81MFzPsZDEPF0RMztMmZgl9wPKZNOdNWJFloI_mSidhqeUiaUh2ima6seF1HXowNTRa3NE0c7tQTGHjJry9rbSqxlkid85uZPrl-DDSBf_EC3s/s723/Picsart_25-10-12_19-44-35-024.png",
+        "label": "W Test",
+        "url": "https://codetestqrcode.blogspot.com/?m=1"
+      },
+
+      {
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxhtCXn4h71wYXQRFrBufunAZUBXNybjFHXfgMvvbOABTLJguz8wowKIPNBwODwLlfi4dQOs65oYmeiXrbjiO1P6VkODONsvPKrPQp3m2WvUDCOmEvMMqPnRIAA2He1Ir7FMAP3GJy6gKeH0ihGMfaf7ZwDa6CoEXUW3KSXFIVmkxbhMUSWEowH0UgDxE/s512/share.png",
+        "label": "Share",
+        "url": "https://satkarakandiappqrcode.blogspot.com/?m=1"
+      }
+
+
+
+      
+    ]
+  }
+      }
